@@ -13,3 +13,5 @@
 
 
 [CSharpCommonClasses](https://github.com/KORE74/CSharpCommonClasses)
+
+[TechDemo-SimpleMeshDecimation](https://github.com/KORE74/TechDemo-SimpleMeshDecimation)
