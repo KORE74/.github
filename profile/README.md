@@ -13,6 +13,6 @@
 
 [KoreGlobe](https://github.com/KORE74/KoreGlobe)
 
-[CSharpCommonClasses](https://github.com/KORE74/CSharpCommonClasses)
+[KoreCommonCSharpClasses](https://github.com/KORE74/KoreCommonCSharpClasses)
 
 [TechDemo-SimpleMeshDecimation](https://github.com/KORE74/TechDemo-SimpleMeshDecimation)
