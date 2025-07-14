@@ -11,10 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[KoreGlobe](https://github.com/KORE74/KoreGlobe)
+<!-- [KoreGlobe](https://github.com/KORE74/KoreGlobe)
 
 [KoreSim](https://github.com/KORE74/KoreSim)
 
 [KoreCommonCSharpClasses](https://github.com/KORE74/KoreCommonCSharpClasses)
+
+-->
 
 [TechDemo-SimpleMeshDecimation](https://github.com/KORE74/TechDemo-SimpleMeshDecimation)
