@@ -18,5 +18,11 @@
 [KoreCommonCSharpClasses](https://github.com/KORE74/KoreCommonCSharpClasses)
 
 -->
+<p align="center">
+  <img src="https://github.com/KORE74/.github/blob/main/KoreSquares-Banner.png" width="100%" />
+</p>
+
+
+
 
 [TechDemo-SimpleMeshDecimation](https://github.com/KORE74/TechDemo-SimpleMeshDecimation)
